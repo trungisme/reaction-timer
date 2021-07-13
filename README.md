@@ -1,5 +1,9 @@
 # reaction-timer
 
+Vue.js tutorial on creating a Reaction Timer
+
+[Youtube Tutorial](https://www.youtube.com/watch?v=bc6czIBLKTg&ab_channel=TheNetNinja)
+
 ## Project setup
 ```
 npm install
